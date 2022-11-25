@@ -1,7 +1,7 @@
 
 Ext.define('ModernApp.view.setting.setting', {
   xtype: 'setting',
-  cls: 'setting',
+  cls: 'settingview',
   extend: 'Ext.Carousel',
   controller: { type: 'settingcontroller' },
   defaults: {

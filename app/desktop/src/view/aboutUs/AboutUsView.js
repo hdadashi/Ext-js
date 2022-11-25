@@ -1,6 +1,6 @@
 Ext.define('ModernApp.view.aboutUs.AboutUs', {
   xtype: 'aboutus',
-  cls: 'aboutus',
+  cls: 'aboutusview',
   // controller: { type: 'aboutuscontroller' },
   // viewModel: { type: 'aboutusmodel' },
   requires: [],
