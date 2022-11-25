@@ -1,0 +1,9 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Personnel", "iconCls": "x-fa fa-table", "xtype": "personnelview","leaf": true },
+    { "text": "Setting", "iconCls": "x-fa fa-cog", "xtype": "setting","leaf": true },
+    { "text": "About Us", "iconCls": "x-fa fa-question", "xtype": "aboutus","leaf": true } 
+  ]
+}
